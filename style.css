@@ -1,0 +1,142 @@
+body {
+  border:1px solid white;
+}
+.logo{
+  margin-left: 200px;
+}
+.button1
+{
+  border :1px solid rgb(20, 10, 80);
+  display: inline-flex;
+
+  margin-left: 1100px;
+}
+.button2{
+  border :1px solid rgb(20, 10, 80);
+  display: inline-flex;
+  margin-left:3px
+}
+.button3{
+  border :1px solid rgb(20, 10, 80);
+  display: inline-flex;
+  margin: left 40px;
+}
+.selection-1{
+  border:1px solid rgb(20, 10, 80);
+  width: 1830px;
+  padding:30px;
+  background-color: rgb(20, 10, 80);
+  color:white;
+}
+.selection-2{
+ border: 1px solid  rgb(20, 10, 80);
+ height: 250px;
+ margin: 20px;
+ padding:40px; 
+ margin-left: 160px;
+}
+.image{
+  margin-left: 1100px;
+  border:1px solid rgb(209, 209, 226);
+  height: 20px;
+  width:300px;
+  padding: 50px;
+  justify-content: center;
+  background-color: grey;
+}
+.selection-3{
+  border: 1px solid white;
+  margin: 10px;
+  width: 1500px;
+  margin-left: 150px;
+  padding: 40px;
+}
+.title{
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.box{
+  display: flex;
+  justify-content:center;
+  margin-top: 40px;
+  gap:50px;
+  
+}
+.box-1,.box-2,.box-3
+,.box-4{
+  border: 1px solid blue;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+}
+.text{
+  display:inline-flex;
+  justify-content:center;
+  font-size: x-small;
+  gap:40px;
+}
+.child-1{
+  margin-left: 470px;
+}
+.subtle{
+  margin-top: 0;
+}
+.child-3{
+margin-left: 10px; 
+}
+.child-4{
+  margin-left: 10px;
+}
+.child-2{
+  margin-left: 10px;
+}
+.selection-4{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: grey;
+  padding:40px;
+  
+}
+.quotes{
+  display: flex;
+  border: 1px solid grey;
+  align-content: center;
+  justify-self: center;
+  width: 400px;
+  padding:30px;
+  font-size: 20px;
+}
+.selection-5{
+  justify-content: center;
+  align-self: center;
+}
+.closing{
+  background-color: rgb(38, 38, 163);
+  border:1px solid rgb(38, 38, 163);
+  margin: 60px;
+  width:750px;
+  display: inline-block;
+  padding: 10px;
+  margin-left: 560px;
+  justify-self: center;
+  height:50px;
+}
+.last{
+  margin-top: -15px;
+}
+.sign{
+  margin-left: 200px;
+}
+.selection-6{
+  border: 1px solid  rgb(20, 10, 80);
+  margin-left: -670px;
+  background-color: rgb(20, 10, 80);
+}
+.text1{
+  margin-left: 1500px;
+  font-size: 12px;
+  color:white;
+}
